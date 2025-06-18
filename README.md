@@ -61,3 +61,10 @@ If you are hosting frontend code somewhere without using DFX, you may need to ma
 - Write your own `createActor` constructor
 # Hackaton_defi
 # icp
+##  Deployed Canisters on the Internet Computer
+
+###  Frontend
+🔗 [demo2_frontend](https://pvugo-7aaaa-aaaaj-a2ctq-cai.icp0.io/)
+
+###  Backend (Candid UI)
+🔗 [demo2_backend (Candid Interface)](https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=psva2-syaaa-aaaaj-a2cta-cai)
